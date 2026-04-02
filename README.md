@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm [Pett](https://github.com/sangurai), a college student based in Thailand with a very strong interest in Computer Networking.  
+I'm [Pett](https://github.com/sangurai), a college student based in Thailand with a very strong interest in Computer Networking.
+
 I'm currently studying for CCNA and building a project, hoping to land an internship in a network engineer role.  
+
 My main tech stack are Cisco Packet Tracer. My favorite tool is Notability.  
+
 Fun fact:  
-*I used to design and build video games via Unreal Engine5( Blueprint\C++ ), Godot Engine( Python ).  
-*I composed a song for my own games and for fun with Reaper.  
-*Game development is my entry to programming because I want to put my science background to use. Then here is the domino effect..   
+- I used to design and build video games via Unreal Engine5( Blueprint\C++ ), Godot Engine( Python ).  
+- I composed a song for my own games and for fun with Reaper.  
+- Game development is my entry to programming because I want to put my science background to use. Then here is the domino effect..   
