@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm [Pett](https://github.com/sangurai), a college student based in Thailand with a very strong interest in Computer Networking.
 
-I'm currently studying for [CCNA](https://github.com/sangurai/CCNA) and building a project, hoping to land an internship in a network engineer role.  
+I'm currently studying for [CCNA](https://github.com/sangurai/CCNA) and [building a project](https://github.com/sangurai/Enterprise-Network-with-High-Availability-and-Security), hoping to land an internship in a network engineer role.  
 
 My main tech stack are Cisco Packet Tracer. My favorite tool is Notability.  
 
