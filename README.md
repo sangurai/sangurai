@@ -21,6 +21,6 @@ I'm currently studying for [CCNA](https://github.com/sangurai/CCNA) and [buildin
 My main tech stack are Cisco Packet Tracer. My favorite tool is Notability.  
 
 Fun fact:  
-- I used to design and build [video games](https://pe7lnwzaa007.itch.io/) via Unreal Engine5( Blueprint\C++ ), Godot Engine( Python ).  
+- I used to design and build [video games](https://github.com/sangurai/Ibuprof) via Unreal Engine5( Blueprint\C++ ), Godot Engine( Python ).  
 - I composed a song for my own games and for fun with Reaper.  
 - Game development is my entry to programming because I want to put my science background to use. Then here is the domino effect..   
