@@ -18,7 +18,7 @@ I'm [Pett](https://github.com/sangurai), a college student based in Thailand wit
 
 I'm currently studying for [CCNA](https://github.com/sangurai/CCNA) and [building a project](https://github.com/sangurai/Enterprise-Network-with-High-Availability-and-Security), hoping to land an internship in a network engineer role.  
 
-My main tech stack are Cisco Packet Tracer. My favorite tool is Notability.  
+My main tech stack are EVE-NG/GNS3 and VS Code. My favorite tool is Notability.  
 
 Fun fact:  
 - I used to design and build [video games](https://github.com/sangurai/Ibuprof) via Unreal Engine5( Blueprint\C++ ), Godot Engine( Python ).  
